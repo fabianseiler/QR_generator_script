@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="colorama" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="fonttools" />
+          <option value="joblib" />
+          <option value="kiwisolver" />
+          <option value="matplotlib" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="psutil" />
+          <option value="PyLTSpice" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="seaborn" />
+          <option value="six" />
+          <option value="spicelib" />
+          <option value="threadpoolctl" />
+          <option value="tqdm" />
+          <option value="tzdata" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Pipeline.Plotting.Plotter.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
